@@ -15,7 +15,7 @@ html {
     background-size:cover;
 }
 .others {
-    margin:2vh;
+    margin:1vh;
     padding: 2vh;
     display:flex;
     flex-direction: column;
